@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sun Sep 16 01:28:23 2018
-
-@author: Boong
 """
 
 # This Python 3 environment comes with many helpful analytics libraries installed
